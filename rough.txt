@@ -1,0 +1,5 @@
+source assgn_2_env/bin/activate
+
+git remote add origin https://github.com/zayev123/ml1_assignment_2.git
+
+git remote set-url origin https://ghp_accesstoken@github.com/zayev123/ml1_assignment_2.git
